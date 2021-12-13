@@ -1,2 +1,3 @@
 # Teknofest
-Pertama
+Luthfi Novra
+NIM : 1301213454
